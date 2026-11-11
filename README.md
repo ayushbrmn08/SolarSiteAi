@@ -8,7 +8,7 @@ Study area: **Jharkhand, India**.
 | | |
 |---|---|
 | Authors | Ayush Burman (2023UG1010), Pritam Das (2023UG1032) |
-| Supervisor | Dr. Dhiran Mahto |
+| Supervisor | Dr. Dhiran Mahato |
 | Status | Working prototype on real data. **Results are preliminary** (see [Limitations](#limitations)). |
 
 ---
